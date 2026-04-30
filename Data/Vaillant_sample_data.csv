@@ -1,0 +1,11 @@
+﻿customer_id;device_id;install_date;last_service;city;avg_temp;pressure;noise_level;error_code;service_calls_12m;contract_type;failure_next_30d
+C001;DV1001;10.02.2019;15.01.2024;berlin;72;1.08.2026;low;E101;2;Premium;0
+C002;DV1002;10.03.2020;;Hamburg;85;2.03.2026;high;;5;Basic;1
+C003;DV1003;1.07.2018;20.11.2023;Munich;#NUM!;1.05.2026;medium;E203;1;Premium;0
+C004;DV1004;30.05.2017;10.08.2022;berlin;95;2.09.2026;high;E101;7;Basic;1
+C005;DV1005;1.12.2021;1.01.2024;Stuttgart;60;;low;;0;Premium;0
+C006;DV1006;1.01.2016;5.10.2023;Frankfurt;105;3.02.2026;high;E404;8;Basic;1
+C007;DV1007;10.09.2019;1.02.2024;Hamburg;70;1.07.2026;low;E101;2;Premium;0
+C008;DV1008;20.04.2015;15.05.2022;Munich;110;3.05.2026;high;E404;9;Basic;1
+C009;DV1009;30.06.2020;1.12.2023;berlin;75;1.09.2026;medium;;3;Premium;0
+C010;DV1010;11.11.2018;;Stuttgart;90;2.06.2026;high;E203;6;Basic;1
